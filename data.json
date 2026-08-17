@@ -2,7 +2,7 @@
   "links": {
     "test1": {
       "target_url": "https://google.com",
-      "clicks": 5,
+      "clicks": 6,
       "logs": [
         {
           "time": "2026-08-17T08:46:55.151Z",
@@ -22,6 +22,10 @@
         },
         {
           "time": "2026-08-17T09:02:52.048Z",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "time": "2026-08-17T09:40:20.338Z",
           "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
         }
       ]
