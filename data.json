@@ -2,8 +2,13 @@
   "links": {
     "test1": {
       "target_url": "https://google.com",
-      "clicks": 0,
-      "logs": []
+      "clicks": 1,
+      "logs": [
+        {
+          "time": "2026-08-17T08:46:55.151Z",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
+        }
+      ]
     }
   }
 }
