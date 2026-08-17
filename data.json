@@ -1,0 +1,9 @@
+{
+  "links": {
+    "test1": {
+      "target_url": "https://google.com",
+      "clicks": 0,
+      "logs": []
+    }
+  }
+}
