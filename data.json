@@ -2,7 +2,7 @@
   "links": {
     "test1": {
       "target_url": "https://example.com",
-      "clicks": 17,
+      "clicks": 18,
       "logs": [
         {
           "time": "2026-08-17T08:46:55.151Z",
@@ -80,6 +80,15 @@
         },
         {
           "time": "2026-08-17T11:00:40.973Z",
+          "ip": "103.143.138.39",
+          "country": "Bangladesh",
+          "country_code": "BD",
+          "flag": "🇧🇩",
+          "city": "Gazipur",
+          "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "time": "2026-08-17T11:08:23.310Z",
           "ip": "103.143.138.39",
           "country": "Bangladesh",
           "country_code": "BD",
