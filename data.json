@@ -2,7 +2,7 @@
   "links": {
     "test1": {
       "target_url": "https://www.profitableratecpmnetwork.com/nkv63aw2h?key=dd997179133f9f0feb8c725cb063ed57",
-      "clicks": 64,
+      "clicks": 65,
       "logs": [
         {
           "time": "2026-08-17T08:46:55.151Z",
@@ -504,6 +504,15 @@
         {
           "time": "2026-08-23T10:24:37.785Z",
           "ip": "180.149.234.79",
+          "country": "Bangladesh",
+          "country_code": "BD",
+          "flag": "🇧🇩",
+          "city": "Gazipur",
+          "userAgent": "Mozilla/5.0 (Linux; Android 14; TECNO KL5 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/151.0.7922.85 Mobile Safari/537.36"
+        },
+        {
+          "time": "2026-08-23T11:07:10.853Z",
+          "ip": "103.143.138.38",
           "country": "Bangladesh",
           "country_code": "BD",
           "flag": "🇧🇩",
